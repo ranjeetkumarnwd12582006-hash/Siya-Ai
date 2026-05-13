@@ -1,0 +1,9 @@
+{
+  "name": "Siya AI",
+  "description": "Siya is a highly advanced, loyal AI companion for Aryan Boss, featuring real-time voice, video awareness, and human-like emotional intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
